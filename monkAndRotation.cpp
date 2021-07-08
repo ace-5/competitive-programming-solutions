@@ -1,4 +1,4 @@
-// https://www.hackerearth.com/practice/codemonk/
+// https://www.hackerearth.com/practice/codemonk/ Array and String
 // Monk and Rotation
 /* Mishki will be provided with an integer array A of size N and an integer K , where she needs to rotate the array in the right direction by K steps and then print the resultant array. As she is new to the school, please help her to complete the task.*/
 
