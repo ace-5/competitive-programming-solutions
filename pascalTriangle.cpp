@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/problem/algorithm/christmas-tree-of-height-n/
+
 /*Christmas tree of height N
 This year Santa wants to make a Christmas tree. But this time he wants to decorate it with numbers as in the Pascal’s triangle. But Santa is very busy in packing the gifts. Now, you being Santa’s friend help in making the tree.
 */

@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/problem/algorithm/gpl/
+
 //Would you help his friends to convert given Binary String to Decimal and participate in Binod's GPL.
 
 #include<bits/stdc++.h>

@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/problem/algorithm/jiyas-sequence/
+
 /*Jiya likes a sequence if all its elements when multiplied yields a number , whose least significant digit is either 2, 3 or 5.Print "YES" or "NO",whether Jiya likes the sequence or not.*/
 
 #include <bits/stdc++.h>

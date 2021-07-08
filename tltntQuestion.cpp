@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/problem/algorithm/too-lazy-to-name-the-question/
+
 /*Given 3 positive numbers A, B and C. We make a set which contains numbers that are either multiples of A or B or (A and B) in increasing order. We take the C-th number of set and print from C-th number to 0 with a step value of A or B whichever it is multiple of and if its a multiple of both, then use step value as LCM(A, B)
 */
 #include <bits/stdc++.h>

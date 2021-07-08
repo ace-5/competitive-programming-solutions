@@ -1,3 +1,6 @@
+// https://www.hackerearth.com/problem/algorithm/monk-and-his-love-for-primes/
+
+
 /*Rules to convert a string to a number:
 1. Convert the UpperCase letters to LowerCase letters
 2. Convert the LowerCase letters to UpperCase letters

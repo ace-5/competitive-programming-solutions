@@ -1,3 +1,5 @@
+//https://www.hackerearth.com/problem/algorithm/capitalbaazi/
+
 /* Given the input of one line, having words separated by a single space, print each word of the input, each in a new line.
 Also, change all the alphabets to uppercase along with doing this.*/
 
